@@ -1,5 +1,7 @@
 # Zero Dark Theme for LibreSprite 1.0
 
+https://mit-license.org/ 
+
 ![Zero Dark](https://user-images.githubusercontent.com/99673761/157367926-a5fa0ebf-8e71-4ef8-a696-4fb4c048988c.png)
 
 
